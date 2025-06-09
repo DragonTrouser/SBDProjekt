@@ -1,0 +1,28 @@
+1. System zarządzania zamówieniami klientów
+Opis:
+Aplikacja umożliwiająca tworzenie, modyfikowanie i anulowanie
+zamówień.
+Zakres:
+Transakcje, procedury składowane, INSERT/UPDATE/DELETE,
+obsługa błędów, JOIN-y, funkcje daty i czasu.
+
+3. Analiza sprzedaży w wybranym okresie
+Opis:
+Aplikacja analizująca dane sprzedaży według różnych kryteriów.
+Zakres:
+Funkcje agregujące, podzapytania, JOIN-y, zmienne, procedury z
+parametrami.
+
+5. System rejestracji nowych produktów
+Opis:
+Aplikacja umożliwiająca dodawanie nowych produktów z walidacją
+danych.
+Zakres:
+INSERT, wyzwalacze INSTEAD OF, procedury składowane, typy
+danych.
+
+Dodat. Zarządzanie kategoriami produktów
+Opis:
+Moduł umożliwiający tworzenie, edycję i usuwanie kategorii produktów, z kontrolą powiązań z produktami.
+Zakres:
+Procedury składowane, relacje z kluczem obcym, obsługa błędów (np. przy próbie usunięcia kategorii przypisanej do produktu), podstawowe transakcje, walidacja danych wejściowych.
